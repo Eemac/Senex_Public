@@ -1,7 +1,7 @@
 # Senex_Public
 A public-facing version of the SenexVR Codebase.
 
-<img width="1440" alt="Plank Test" src="https://github.com/Eemac/Senex_Public/assets/28767801/af33710f-d304-48ee-82d3-273f5d365b34">
+<img width="1440" alt="Gif" src="https://github.com/Eemac/Senex_Public/assets/28767801/af33710f-d304-48ee-82d3-273f5d365b34">
 
 
 ## What is Senex VR?
