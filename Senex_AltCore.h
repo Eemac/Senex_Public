@@ -70,7 +70,7 @@ typedef struct S_IO
     * ----------------------------------------------------------------------------------------------------------
     * |   7   |   Set bit to enable Sleep Mode.                                                 |              |
     * |   6   |   Set bit to enable LED functionality.                                          |              |
-    * |   5   |   Set bit to enable haptic engine.                                              |              |
+    * |   5   |   Set bit to enable h***** engine.                                              |              |
     * |   4   |   Set bit to enable ESP32 quaternion postprocessing.                            |              |
     * |   3   |   External device (1) enable.                                                   |              |
     * |   2   |   External device (2) enable.                                                   |              |
@@ -91,7 +91,7 @@ typedef struct S_IO
     * |   3   |   WiFi debug enable bit.                                                        |              |
     * |   2   |   IMU debug enable bit.                                                         |              |
     * |   1   |   I/O debug enable bit.                                                         |              |
-    * |   0   |   Haptics debug enable bit.                                                     |              |
+    * |   0   |   H****** debug enable bit.                                                     |              |
     * ----------------------------------------------------------------------------------------------------------
     */
     unsigned char ctrl_3;
@@ -142,8 +142,8 @@ typedef struct S_IO
     //For more advanced LED scenes
     unsigned char led_ctrl;
 
-    //Haptics bank
-    unsigned char hapticsBank[130];
+    //H***** bank
+    unsigned char bank[130];
 
     //Ctrl registers for 4 external devices
     unsigned char eCtrl[4][4];
