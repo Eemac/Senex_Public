@@ -1,6 +1,6 @@
 /* SENEX VR CONFIDENTIAL
 * 
-*  [2021] Senex VR, LLC 
+*  [2020-2023] Senex VR, LLC 
 *  All Rights Reserved.
 * 
 * NOTICE:  All information contained herein is, and remains
@@ -16,14 +16,14 @@
 
 /* Comment Syntax:
 * -------------------------------------------------------------------------------------------
-* |   Title   |   Meaning																	|
+* |   Title   |   Meaning                                                                   |
 * -------------------------------------------------------------------------------------------
-* |   @name   |   The name of the function being defined.									|
-* |   @brief  |   A quick definition of what the function does.								|
-* |   @param  |   A parameter in the function, and a simple description of what it is.		|
-* |   @type   |   Whether the function is used in the CONTROLLER, the CORE, or BOTH.		|
-* |   @note   |   An additional piece of information, usually when the function was tested.	|
-* |   @return |   Possible values the fucntion returns, if any.								|
+* |   @name   |   The name of the function being defined.                                   |
+* |   @brief  |   A quick definition of what the function does                              |
+* |   @param  |   A parameter in the function, and a simple description of what it is.      |
+* |   @type   |   Whether the function is used in the CONTROLLER, the CORE, or BOTH.        |
+* |   @note   |   An additional piece of information, usually when the function was tested. |
+* |   @return |   Possible values the function returns, if any.	                            |
 * -------------------------------------------------------------------------------------------
 */
 
