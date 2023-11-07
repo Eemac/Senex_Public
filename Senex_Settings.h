@@ -93,7 +93,7 @@
 		//The amount of EEPROM storage allocated to IMU bias storage ([36 * 15]B for actual data, 2B for IMU bitmask)
 		#define IMU_EEPROM_SIZE 36 * 15 + 2
 
-		//Secondary I2C Pins for Lower body + haptic motors
+		//Secondary I2C Pins for Lower body + h***** motors
 		#define SDA_2 33
 		#define SCL_2 32
 	#endif
