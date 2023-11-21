@@ -15,7 +15,7 @@ The Senex Suit, a flagship product of SenexVR, was designed to track body motion
 
 
 ## What is included in this Repository?
-The technology behind Senex VR, the Senex Suit is not currently public (Patent Pending), but I've provided some C++ header files that give an idea of what I've been working on for the past three years.
+The technology behind Senex VR, the Senex Suit is not currently public (Patent Pending), but I've provided some C++ header files that give an idea of what I've been working on for the past four years.
 
 ## What is it used for?
 The Suit and its accompanying software package are currently geared towards diagnosing patheokinematic stress injuries for physical therapy firms, but the potential use cases are endless. Below is a screenshot of a 45-second plank test, one of the few tests currently built out in both hardware and software.  
