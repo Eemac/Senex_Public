@@ -8,7 +8,7 @@ A public-facing version of the SenexVR Project.
 The Senex Suit, a flagship product of SenexVR, was designed to track body motion and simulate lifelike interactions in the virtual world. It provides high-fidelity data (relative position/orientation to under 0.2cm) while remaining inexpensive and straightforward to use. Senex has also developed high-accuracy, real-time dead-reckoning modules capable of indoor and outdoor translational position tracking with an accuracy of under 3cm. 
 
 ## Some Hardware
-|      A Tracking Glove   |  Prototype Render of a Tracking Base Station
+|      A Tracking Glove   |  Render of a Base Station Tracker
 :-------------------------:|:-------------------------:
 ![IMG_7187](https://github.com/Eemac/Senex_Public/assets/28767801/1a0fc150-1266-49a3-a65b-dc39c434e1ba) | <img width="630" alt="Screenshot 2023-11-21 at 4 30 07 PM" src="https://github.com/Eemac/Senex_Public/assets/28767801/bb1a0065-933a-4f3a-961c-f895bfe86317">
 
