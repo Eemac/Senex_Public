@@ -10,7 +10,7 @@ The Senex Suit, a flagship product of SenexVR, was designed to track body motion
 ## Some Hardware
 |      A Tracking Glove   |  Prototype Render of a Tracking Base Station
 :-------------------------:|:-------------------------:
- ![IMG_7187](https://github.com/Eemac/Senex_Public/assets/28767801/f021bd3f-09c2-421a-939a-6a13ac27a6d6) |  <img width="798" alt="Screenshot 2023-11-21 at 4 30 07 PM" src="https://github.com/Eemac/Senex_Public/assets/28767801/de60424c-3d10-4673-b0a4-b9f6ff9e3272">
+![IMG_7187](https://github.com/Eemac/Senex_Public/assets/28767801/1a0fc150-1266-49a3-a65b-dc39c434e1ba) |  <img width="798" alt="Screenshot 2023-11-21 at 4 30 07 PM" src="https://github.com/Eemac/Senex_Public/assets/28767801/de60424c-3d10-4673-b0a4-b9f6ff9e3272">
 
 
 ## What is included in this Repository?
