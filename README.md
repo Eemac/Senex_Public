@@ -17,5 +17,5 @@ The idea of a wearable computer/control suit has been rolling around in my head 
 The technology behind Senex VR and the Senex Suit is not currently public (Patent Pending), but I've provided some C++ header files that give an idea of what I've been working on for the past four years.
 
 ## What is it used for?
-The Suit and its accompanying software package are currently geared towards diagnosing patheokinematic stress injuries for physical therapy firms, but the potential use cases are endless. Below is a screenshot of a 45-second plank test, one of the few tests currently built out in both hardware and software.  
+The Suit and its accompanying software package are currently geared towards diagnosing patheokinematic stress injuries in first responders for physical therapy firms, but the potential use cases are endless. Below is a screenshot of a 45-second plank test, one of a few working modules currently built out in both hardware and software.  
 <img width="1440" alt="Plank Test" src="https://github.com/Eemac/Senex_Public/assets/28767801/418c651f-eccb-40e1-b5a6-51703c11411d">
