@@ -4,10 +4,10 @@ The Senex Suit, a flagship product of SenexVR, was designed to track body motion
 
 <img width="1440" alt="Gif" src="https://github.com/Eemac/Senex_Public/assets/28767801/af33710f-d304-48ee-82d3-273f5d365b34">
 
-The idea of a wearable computer/control suit has been rolling around in my head since I saw the first Iron Man when I was nine. The abysmal experience of Zoom classrooms in 2020 (my sophomore year of highschool) inspired me to create something way better, and I’ve spent thousands of hours over nearly four years to create the full body system (suit and gloves) and trackers I have today.
+The idea of a wearable computer/control suit has been stuck rolling around my head since I saw the first Iron Man when I was nine. The abysmal experience of Zoom classrooms in 2020 (my sophomore year of high school) inspired me to create something better, and I’ve spent thousands of hours over nearly four years creating the full-body system (suit, gloves, and tracker base stations) I have today.
 
 ## Some Hardware
-|      A Tracking Glove   |  Render of a Base Station Tracker
+|      A Glove   |  Render of a Base Station Tracker
 :-------------------------:|:-------------------------:
 ![IMG_7187](https://github.com/Eemac/Senex_Public/assets/28767801/1a0fc150-1266-49a3-a65b-dc39c434e1ba) | <img width="630" alt="Screenshot 2023-11-21 at 4 30 07 PM" src="https://github.com/Eemac/Senex_Public/assets/28767801/bb1a0065-933a-4f3a-961c-f895bfe86317">
 
