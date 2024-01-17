@@ -6,16 +6,20 @@ The Senex Suit, a flagship product of SenexVR, was designed to track body motion
 
 The idea of a wearable computer/control suit has been stuck rolling around my head since I saw the first Iron Man when I was nine. The abysmal experience of Zoom classrooms in 2020 (my sophomore year of high school) inspired me to create something better, and I’ve spent thousands of hours over nearly four years creating the full-body system (suit, gloves, and tracker base stations) I have today.
 
+## What is included in this Repository?
+The technology behind Senex VR and the Senex Suit is not currently public (Patent Pending), but I've provided some C++ header files and a compressed IMU hex image that give an idea of what I've been working on for the past four years.
+
 ## Some Hardware
 |      A Glove   |  Render of a Base Station Tracker
 :-------------------------:|:-------------------------:
 ![IMG_7187](https://github.com/Eemac/Senex_Public/assets/28767801/1a0fc150-1266-49a3-a65b-dc39c434e1ba) | <img width="630" alt="Screenshot 2023-11-21 at 4 30 07 PM" src="https://github.com/Eemac/Senex_Public/assets/28767801/bb1a0065-933a-4f3a-961c-f895bfe86317">
 
 
+## The Flex PCB Panel I Created using Autodesk Eagle's Education edition
+I sent this panel to be manufactured my Sophomore summer - about the time when COVID-19 struck! This was a blessing in disguise, as I was able to put many more hours into Senex thanks to online schooling.
 
-## What is included in this Repository?
-The technology behind Senex VR and the Senex Suit is not currently public (Patent Pending), but I've provided some C++ header files that give an idea of what I've been working on for the past four years.
+![board_layout](https://github.com/Eemac/Senex_Public/assets/28767801/c3999841-08fe-45d8-a377-75e836a36c2c)
 
 ## What is it used for?
-The Suit and its accompanying software package are currently geared toward diagnosing patheokinematic movement that may lead to injury in first responders, but the potential use cases are endless. Below is a screenshot of a 45-second plank test, one of a few working modules currently built out in both hardware and software.  
+The Suit and its accompanying software package are currently geared toward diagnosing patheo-kinematic movement that may lead to injury in first responders, but the potential use cases are endless. Below is a screenshot of a 45-second plank test, one of a few working modules currently built out in both hardware and software.  
 <img width="1440" alt="Plank Test" src="https://github.com/Eemac/Senex_Public/assets/28767801/418c651f-eccb-40e1-b5a6-51703c11411d">
