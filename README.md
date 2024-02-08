@@ -4,10 +4,10 @@ The Senex Suit, a flagship product of SenexVR, was designed to track body motion
 
 <img width="1440" alt="Gif" src="https://github.com/Eemac/Senex_Public/assets/28767801/af33710f-d304-48ee-82d3-273f5d365b34">
 
-The idea of a wearable computer/control suit has been stuck rolling around my head since I saw the first Iron Man when I was nine. The abysmal experience of Zoom classrooms in 2020 (my sophomore year of high school) inspired me to create something better, and I’ve spent thousands of hours over nearly four years creating the full-body system (suit, gloves, and tracker base stations) I have today.
+The idea of a wearable computer/control suit has been rolling around in my head since I saw Iron Man when I was nine. The abysmal experience of Zoom classrooms in 2020 (my sophomore year of high school) inspired me to create something better, and I’ve spent thousands of hours over nearly four years creating the full-body system (suit, gloves, and tracker base stations) I have today.
 
 ## What is it used for?
-The Suit and its accompanying software package are currently geared toward diagnosing patheo-kinematic movement that may lead to injury in first responders, but the potential use cases are endless. Below is a screenshot of a 45-second plank test, one of a few working modules currently built out in both hardware and software.  
+The Suit and its accompanying software package are currently geared toward diagnosing patheokinematic (irregular) movement that may lead to injury in first responders, but the potential use cases are endless. Below is a screenshot of a 45-second plank test, one of a few working 'application modules' I've built out in both hardware and software.  
 <img width="1440" alt="Plank Test" src="https://github.com/Eemac/Senex_Public/assets/28767801/418c651f-eccb-40e1-b5a6-51703c11411d">
 
 
