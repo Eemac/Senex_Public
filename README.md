@@ -20,7 +20,7 @@ The technology behind Senex VR and the Senex Suit is not currently public (Paten
 ![IMG_7187](https://github.com/Eemac/Senex_Public/assets/28767801/1a0fc150-1266-49a3-a65b-dc39c434e1ba) | <img width="630" alt="Screenshot 2023-11-21 at 4 30 07 PM" src="https://github.com/Eemac/Senex_Public/assets/28767801/bb1a0065-933a-4f3a-961c-f895bfe86317">
 
 
-## The Flex PCB Panel I Created using Autodesk Eagle's Education edition
+## The Flex PCB Panel - Created using Autodesk Eagle's Education edition
 I sent this panel, a collection of over sixty flexible 2-layer printed circuits, to be manufactured the summer of my Sophomore year - about the time when COVID-19 struck. My abysmal online experience became my biggest source of motivation--I wanted to create technology that would allow me to interact with my friends, family, and school again! If the experience had to become virtual, I wanted something much more realistic than a video call. There was an upside to 'Zoom School' as well: I was able to devote many more hours to the suit than I would have been able to normally.
 
 ![board_layout](https://github.com/Eemac/Senex_Public/assets/28767801/c3999841-08fe-45d8-a377-75e836a36c2c)
