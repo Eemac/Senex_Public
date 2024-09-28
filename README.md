@@ -22,6 +22,6 @@ The suit in it's original form was inteded to only be a jacket--and my introduct
 
 
 ## The Flex PCB Panel - Created using Autodesk Eagle's Education edition
-I sent this panel, a collection of over sixty flexible 2-layer printed circuits, to be manufactured the summer of my Sophomore year - about the time when COVID-19 struck. My abysmal online experience became my biggest source of motivation--I wanted to create technology that would allow me to interact with my friends, family, and school again! If the experience had to become virtual, I wanted something much more realistic than a video call. There was an upside to 'Zoom School' as well: I was able to devote many more hours to the suit than I would have been able to normally.
+I sent this panel, a collection of over sixty flexible 2-layer printed circuits, to be manufactured the summer of my Sophomore year in highschool - about the time when COVID-19 struck. My abysmal online experience became my biggest source of motivation--I wanted to create technology that would allow me to interact with my friends, family, and school again! If the experience had to become virtual, I wanted something much more realistic than a video call. There was an upside to 'Zoom School' as well: I was able to devote many more hours to the suit than I would have been able to normally.
 
 ![board_layout](https://github.com/Eemac/Senex_Public/assets/28767801/c3999841-08fe-45d8-a377-75e836a36c2c)
